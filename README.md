@@ -28,7 +28,7 @@ To run this project, ensure you have **Microsoft Power BI** installed on your sy
 
 **Top & Bottom 5 Products Analysis**
 
-**Regoinal Sales Analysis**
+**Regional Sales Analysis**
 
 ## Business Performance Analysis
 The project aims to highlight crucial business metrics and trends via a Power BI dashboard, identifying areas for optimization and informed decision-making.
